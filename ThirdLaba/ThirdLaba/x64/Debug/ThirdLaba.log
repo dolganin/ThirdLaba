@@ -1,0 +1,4 @@
+﻿  Turn up.cpp
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\ThirdLaba\ThirdLaba\BaseConvert.h(15,2): warning C4091: typedef : пропускается слева от "_stream", когда ни одна переменная не объявлена
+C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\ThirdLaba\ThirdLaba\BaseConvert.h(31,2): warning C4091: typedef : пропускается слева от "WAVFile", когда ни одна переменная не объявлена
+  ThirdLaba.vcxproj -> C:\Users\КомпЛавка Бардина 9\Desktop\ВУЗ\2курс\FirstLaba\ThirdLaba\x64\Debug\ThirdLaba.exe
